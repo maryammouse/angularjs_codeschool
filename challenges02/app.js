@@ -23,8 +23,7 @@
      this.setCurrent = function(newGallery){
       this.current = newGallery || 0;
     };
-  };
-  );
+  });
 
   var gems = [{
     name: 'Azurite',
