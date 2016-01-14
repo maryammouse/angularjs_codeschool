@@ -35,13 +35,19 @@
             body: "This product sucks",
             author: "tim@hater.com"
         }
-    ]
+    ],
 
   },
   {
       name: "Pentagonal Gem",
       price: 5.95,
       description: "A marvelous gem for those of us who love the number 5 and gems, you can admire each point in its beauty.",
+      images: [
+          {
+              full: 'gem-02.gif',
+          }
+      ]
+
   }
   ]
 
